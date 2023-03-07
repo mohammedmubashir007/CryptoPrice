@@ -15,6 +15,7 @@
 		3FBA673329B66678005A13EF /* TopMoversView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673229B66678005A13EF /* TopMoversView.swift */; };
 		3FBA673529B730CF005A13EF /* AllCoinsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673429B730CF005A13EF /* AllCoinsView.swift */; };
 		3FBA673729B730DF005A13EF /* CoinRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673629B730DF005A13EF /* CoinRowView.swift */; };
+		3FBA673929B73A8E005A13EF /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673829B73A8E005A13EF /* HomeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3FBA673229B66678005A13EF /* TopMoversView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopMoversView.swift; sourceTree = "<group>"; };
 		3FBA673429B730CF005A13EF /* AllCoinsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllCoinsView.swift; sourceTree = "<group>"; };
 		3FBA673629B730DF005A13EF /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
+		3FBA673829B73A8E005A13EF /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 		3FBA672D29B66594005A13EF /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				3FBA673829B73A8E005A13EF /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 			files = (
 				3FBA673329B66678005A13EF /* TopMoversView.swift in Sources */,
 				3FBA673129B66670005A13EF /* TopMoversItemView.swift in Sources */,
+				3FBA673929B73A8E005A13EF /* HomeViewModel.swift in Sources */,
 				3FBA673729B730DF005A13EF /* CoinRowView.swift in Sources */,
 				3FBA673529B730CF005A13EF /* AllCoinsView.swift in Sources */,
 				3FBA672F29B665A6005A13EF /* HomeView.swift in Sources */,
