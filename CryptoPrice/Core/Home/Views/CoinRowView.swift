@@ -15,7 +15,7 @@ struct CoinRowView: View {
         
         HStack {
             
-            Text("\(coin.marketCapRank ?? 1)")
+            Text("\(coin.marketCapRank)")
                 .font(.caption)
                 .foregroundColor(.gray)
             
