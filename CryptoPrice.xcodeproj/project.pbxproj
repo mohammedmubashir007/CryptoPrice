@@ -18,6 +18,7 @@
 		3FBA673929B73A8E005A13EF /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673829B73A8E005A13EF /* HomeViewModel.swift */; };
 		3FBA673B29B74A59005A13EF /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673A29B74A59005A13EF /* Coin.swift */; };
 		3FBA673E29B776B3005A13EF /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 3FBA673D29B776B3005A13EF /* Kingfisher */; };
+		3FBA674029B777CC005A13EF /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBA673F29B777CC005A13EF /* Double.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3FBA673629B730DF005A13EF /* CoinRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRowView.swift; sourceTree = "<group>"; };
 		3FBA673829B73A8E005A13EF /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		3FBA673A29B74A59005A13EF /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
+		3FBA673F29B777CC005A13EF /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		3FBA672929B49D0E005A13EF /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				3FBA673F29B777CC005A13EF /* Double.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				3FBA673529B730CF005A13EF /* AllCoinsView.swift in Sources */,
 				3FBA672F29B665A6005A13EF /* HomeView.swift in Sources */,
 				3FBA673B29B74A59005A13EF /* Coin.swift in Sources */,
+				3FBA674029B777CC005A13EF /* Double.swift in Sources */,
 				3FBA671729B495A8005A13EF /* CryptoPriceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
